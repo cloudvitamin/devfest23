@@ -9,6 +9,9 @@ Here are a few examples of the demos included in this repository:
 2. ML Modeling - Predict purchase revenue
 3. Generative AI with BigQuery
 
+## Code available after October 14, 2023
+The notebook with code sample (DevFest2023_AI_Demos.ipynb) will only be available after the DevFest conference (10/14).
+The temporary version only include the table of content
 
 ## Getting Started
 To get started, clone this repository to your local machine:
