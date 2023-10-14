@@ -19,5 +19,11 @@ git clone https://github.com/cloudvitamin/devfest23.git
 
 Then, open the project notebook in Google Colab or BigQuery Notebook, or in Vertex AI Notebook.
 
+## Responsible AI
+Responsible AI is an approach to developing and deploying AI systems that takes into account the ethical, legal, and social implications of the technology. It is about using AI in a way that is safe, fair, and beneficial to society. For further information, refer to the following:
+
+* Montréal declaration for a responsible development of artificial intelligence: https://montrealdeclaration-responsibleai.com/
+* Google Responsible AI: https://ai.google/responsibility/principles/
+
 ## License
 This code is licensed under the Apache License.
