@@ -9,10 +9,6 @@ Here are a few examples of the demos included in this repository:
 2. ML Modeling - Predict purchase revenue
 3. Generative AI with BigQuery
 
-## Code available after October 14, 2023
-The notebook with code sample (DevFest2023_AI_Demos.ipynb) will only be available after the DevFest conference (10/14).
-The temporary version only include the table of content
-
 ## Getting Started
 To get started, clone this repository to your local machine:
 git clone https://github.com/cloudvitamin/devfest23.git
@@ -24,6 +20,13 @@ Responsible AI is an approach to developing and deploying AI systems that takes 
 
 * Montréal declaration for a responsible development of artificial intelligence: https://montrealdeclaration-responsibleai.com/
 * Google Responsible AI: https://ai.google/responsibility/principles/
+
+## Free Google Cloud resources
+
+All new users get $300 in free credits to fully explore and conduct an assessment of Google Cloud. 
+https://youtu.be/ogzJovMsDIU
+
+You can use the free trial to run all the demos in this repository, and much more!! If you consume all the free trial credits, don't worry, you still have access to monthly free resources, as documented here: https://cloud.google.com/free
 
 ## License
 This code is licensed under the Apache License.
